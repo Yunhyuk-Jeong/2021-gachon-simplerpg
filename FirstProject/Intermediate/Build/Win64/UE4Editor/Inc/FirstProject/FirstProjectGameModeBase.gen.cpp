@@ -40,7 +40,6 @@ void EmptyLinkFunctionForGeneratedCodeFirstProjectGameModeBase() {}
 	};
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AFirstProjectGameModeBase_Statics::Class_MetaDataParams[] = {
-		{ "Comment", "/**\n * \n */" },
 		{ "HideCategories", "Info Rendering MovementReplication Replication Actor Input Movement Collision Rendering Utilities|Transformation" },
 		{ "IncludePath", "FirstProjectGameModeBase.h" },
 		{ "ModuleRelativePath", "FirstProjectGameModeBase.h" },
@@ -74,7 +73,7 @@ void EmptyLinkFunctionForGeneratedCodeFirstProjectGameModeBase() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AFirstProjectGameModeBase, 1720887369);
+	IMPLEMENT_CLASS(AFirstProjectGameModeBase, 2706135021);
 	template<> FIRSTPROJECT_API UClass* StaticClass<AFirstProjectGameModeBase>()
 	{
 		return AFirstProjectGameModeBase::StaticClass();

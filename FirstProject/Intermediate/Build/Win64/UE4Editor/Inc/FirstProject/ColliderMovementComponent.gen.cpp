@@ -40,7 +40,6 @@ void EmptyLinkFunctionForGeneratedCodeColliderMovementComponent() {}
 	};
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UColliderMovementComponent_Statics::Class_MetaDataParams[] = {
-		{ "Comment", "/**\n * \n */" },
 		{ "IncludePath", "ColliderMovementComponent.h" },
 		{ "ModuleRelativePath", "ColliderMovementComponent.h" },
 	};
@@ -72,7 +71,7 @@ void EmptyLinkFunctionForGeneratedCodeColliderMovementComponent() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(UColliderMovementComponent, 260588558);
+	IMPLEMENT_CLASS(UColliderMovementComponent, 3266201179);
 	template<> FIRSTPROJECT_API UClass* StaticClass<UColliderMovementComponent>()
 	{
 		return UColliderMovementComponent::StaticClass();

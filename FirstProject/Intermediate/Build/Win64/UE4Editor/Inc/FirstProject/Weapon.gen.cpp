@@ -390,7 +390,6 @@ void EmptyLinkFunctionForGeneratedCodeWeapon() {}
 	};
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AWeapon_Statics::Class_MetaDataParams[] = {
-		{ "Comment", "/**\n * \n */" },
 		{ "IncludePath", "Weapon.h" },
 		{ "ModuleRelativePath", "Weapon.h" },
 	};
@@ -512,7 +511,7 @@ void EmptyLinkFunctionForGeneratedCodeWeapon() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AWeapon, 2640677139);
+	IMPLEMENT_CLASS(AWeapon, 434986964);
 	template<> FIRSTPROJECT_API UClass* StaticClass<AWeapon>()
 	{
 		return AWeapon::StaticClass();

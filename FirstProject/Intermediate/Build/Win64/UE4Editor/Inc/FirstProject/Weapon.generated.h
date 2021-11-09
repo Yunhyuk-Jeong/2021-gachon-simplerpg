@@ -16,8 +16,8 @@ struct FHitResult;
 #endif
 #define FIRSTPROJECT_Weapon_generated_h
 
-#define FirstProject_Source_FirstProject_Weapon_h_24_SPARSE_DATA
-#define FirstProject_Source_FirstProject_Weapon_h_24_RPC_WRAPPERS \
+#define FirstProject_Source_FirstProject_Weapon_h_19_SPARSE_DATA
+#define FirstProject_Source_FirstProject_Weapon_h_19_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execDeactivateCollision); \
 	DECLARE_FUNCTION(execActivateCollision); \
@@ -25,7 +25,7 @@ struct FHitResult;
 	DECLARE_FUNCTION(execCombatOnOverlapBegin);
 
 
-#define FirstProject_Source_FirstProject_Weapon_h_24_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FirstProject_Source_FirstProject_Weapon_h_19_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execDeactivateCollision); \
 	DECLARE_FUNCTION(execActivateCollision); \
@@ -33,7 +33,7 @@ struct FHitResult;
 	DECLARE_FUNCTION(execCombatOnOverlapBegin);
 
 
-#define FirstProject_Source_FirstProject_Weapon_h_24_INCLASS_NO_PURE_DECLS \
+#define FirstProject_Source_FirstProject_Weapon_h_19_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAWeapon(); \
 	friend struct Z_Construct_UClass_AWeapon_Statics; \
@@ -42,7 +42,7 @@ public: \
 	DECLARE_SERIALIZER(AWeapon)
 
 
-#define FirstProject_Source_FirstProject_Weapon_h_24_INCLASS \
+#define FirstProject_Source_FirstProject_Weapon_h_19_INCLASS \
 private: \
 	static void StaticRegisterNativesAWeapon(); \
 	friend struct Z_Construct_UClass_AWeapon_Statics; \
@@ -51,7 +51,7 @@ public: \
 	DECLARE_SERIALIZER(AWeapon)
 
 
-#define FirstProject_Source_FirstProject_Weapon_h_24_STANDARD_CONSTRUCTORS \
+#define FirstProject_Source_FirstProject_Weapon_h_19_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API AWeapon(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AWeapon) \
@@ -64,7 +64,7 @@ private: \
 public:
 
 
-#define FirstProject_Source_FirstProject_Weapon_h_24_ENHANCED_CONSTRUCTORS \
+#define FirstProject_Source_FirstProject_Weapon_h_19_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API AWeapon(AWeapon&&); \
@@ -75,28 +75,28 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AWeapon); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AWeapon)
 
 
-#define FirstProject_Source_FirstProject_Weapon_h_24_PRIVATE_PROPERTY_OFFSET
-#define FirstProject_Source_FirstProject_Weapon_h_21_PROLOG
-#define FirstProject_Source_FirstProject_Weapon_h_24_GENERATED_BODY_LEGACY \
+#define FirstProject_Source_FirstProject_Weapon_h_19_PRIVATE_PROPERTY_OFFSET
+#define FirstProject_Source_FirstProject_Weapon_h_16_PROLOG
+#define FirstProject_Source_FirstProject_Weapon_h_19_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FirstProject_Source_FirstProject_Weapon_h_24_PRIVATE_PROPERTY_OFFSET \
-	FirstProject_Source_FirstProject_Weapon_h_24_SPARSE_DATA \
-	FirstProject_Source_FirstProject_Weapon_h_24_RPC_WRAPPERS \
-	FirstProject_Source_FirstProject_Weapon_h_24_INCLASS \
-	FirstProject_Source_FirstProject_Weapon_h_24_STANDARD_CONSTRUCTORS \
+	FirstProject_Source_FirstProject_Weapon_h_19_PRIVATE_PROPERTY_OFFSET \
+	FirstProject_Source_FirstProject_Weapon_h_19_SPARSE_DATA \
+	FirstProject_Source_FirstProject_Weapon_h_19_RPC_WRAPPERS \
+	FirstProject_Source_FirstProject_Weapon_h_19_INCLASS \
+	FirstProject_Source_FirstProject_Weapon_h_19_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define FirstProject_Source_FirstProject_Weapon_h_24_GENERATED_BODY \
+#define FirstProject_Source_FirstProject_Weapon_h_19_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FirstProject_Source_FirstProject_Weapon_h_24_PRIVATE_PROPERTY_OFFSET \
-	FirstProject_Source_FirstProject_Weapon_h_24_SPARSE_DATA \
-	FirstProject_Source_FirstProject_Weapon_h_24_RPC_WRAPPERS_NO_PURE_DECLS \
-	FirstProject_Source_FirstProject_Weapon_h_24_INCLASS_NO_PURE_DECLS \
-	FirstProject_Source_FirstProject_Weapon_h_24_ENHANCED_CONSTRUCTORS \
+	FirstProject_Source_FirstProject_Weapon_h_19_PRIVATE_PROPERTY_OFFSET \
+	FirstProject_Source_FirstProject_Weapon_h_19_SPARSE_DATA \
+	FirstProject_Source_FirstProject_Weapon_h_19_RPC_WRAPPERS_NO_PURE_DECLS \
+	FirstProject_Source_FirstProject_Weapon_h_19_INCLASS_NO_PURE_DECLS \
+	FirstProject_Source_FirstProject_Weapon_h_19_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 

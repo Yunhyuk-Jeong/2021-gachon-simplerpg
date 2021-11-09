@@ -95,7 +95,6 @@ void EmptyLinkFunctionForGeneratedCodeEnemyAnimInstance() {}
 	};
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UEnemyAnimInstance_Statics::Class_MetaDataParams[] = {
-		{ "Comment", "/**\n * \n */" },
 		{ "HideCategories", "AnimInstance" },
 		{ "IncludePath", "EnemyAnimInstance.h" },
 		{ "ModuleRelativePath", "EnemyAnimInstance.h" },
@@ -154,7 +153,7 @@ void EmptyLinkFunctionForGeneratedCodeEnemyAnimInstance() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(UEnemyAnimInstance, 2065875201);
+	IMPLEMENT_CLASS(UEnemyAnimInstance, 229168052);
 	template<> FIRSTPROJECT_API UClass* StaticClass<UEnemyAnimInstance>()
 	{
 		return UEnemyAnimInstance::StaticClass();

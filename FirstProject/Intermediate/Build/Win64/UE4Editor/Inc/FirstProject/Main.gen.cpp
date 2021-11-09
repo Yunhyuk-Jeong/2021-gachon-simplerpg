@@ -1086,9 +1086,7 @@ static struct FScriptStruct_FirstProject_StaticRegisterNativesFCharacterStats
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AMain_Statics::NewProp_WeaponContainer_MetaData[] = {
 		{ "Category", "Weapon" },
-		{ "Comment", "//UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = \"Weapon\")\n//TSubclassOf<UWeaponContainer> WeaponContainer;\n" },
 		{ "ModuleRelativePath", "Main.h" },
-		{ "ToolTip", "UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = \"Weapon\")\nTSubclassOf<UWeaponContainer> WeaponContainer;" },
 	};
 #endif
 	const UE4CodeGen_Private::FClassPropertyParams Z_Construct_UClass_AMain_Statics::NewProp_WeaponContainer = { "WeaponContainer", nullptr, (EPropertyFlags)0x0014000000000005, UE4CodeGen_Private::EPropertyGenFlags::Class, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AMain, WeaponContainer), Z_Construct_UClass_AWeaponContainerActor_NoRegister, Z_Construct_UClass_UClass, METADATA_PARAMS(Z_Construct_UClass_AMain_Statics::NewProp_WeaponContainer_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AMain_Statics::NewProp_WeaponContainer_MetaData)) };
@@ -1151,7 +1149,7 @@ static struct FScriptStruct_FirstProject_StaticRegisterNativesFCharacterStats
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AMain, 2103502089);
+	IMPLEMENT_CLASS(AMain, 2271599974);
 	template<> FIRSTPROJECT_API UClass* StaticClass<AMain>()
 	{
 		return AMain::StaticClass();

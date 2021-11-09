@@ -13,18 +13,18 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define FIRSTPROJECT_MainAnimInstance_generated_h
 
-#define FirstProject_Source_FirstProject_MainAnimInstance_h_15_SPARSE_DATA
-#define FirstProject_Source_FirstProject_MainAnimInstance_h_15_RPC_WRAPPERS \
+#define FirstProject_Source_FirstProject_MainAnimInstance_h_10_SPARSE_DATA
+#define FirstProject_Source_FirstProject_MainAnimInstance_h_10_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execUpdateAnimationProperties);
 
 
-#define FirstProject_Source_FirstProject_MainAnimInstance_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FirstProject_Source_FirstProject_MainAnimInstance_h_10_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execUpdateAnimationProperties);
 
 
-#define FirstProject_Source_FirstProject_MainAnimInstance_h_15_INCLASS_NO_PURE_DECLS \
+#define FirstProject_Source_FirstProject_MainAnimInstance_h_10_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUMainAnimInstance(); \
 	friend struct Z_Construct_UClass_UMainAnimInstance_Statics; \
@@ -33,7 +33,7 @@ public: \
 	DECLARE_SERIALIZER(UMainAnimInstance)
 
 
-#define FirstProject_Source_FirstProject_MainAnimInstance_h_15_INCLASS \
+#define FirstProject_Source_FirstProject_MainAnimInstance_h_10_INCLASS \
 private: \
 	static void StaticRegisterNativesUMainAnimInstance(); \
 	friend struct Z_Construct_UClass_UMainAnimInstance_Statics; \
@@ -42,7 +42,7 @@ public: \
 	DECLARE_SERIALIZER(UMainAnimInstance)
 
 
-#define FirstProject_Source_FirstProject_MainAnimInstance_h_15_STANDARD_CONSTRUCTORS \
+#define FirstProject_Source_FirstProject_MainAnimInstance_h_10_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UMainAnimInstance(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UMainAnimInstance) \
@@ -55,7 +55,7 @@ private: \
 public:
 
 
-#define FirstProject_Source_FirstProject_MainAnimInstance_h_15_ENHANCED_CONSTRUCTORS \
+#define FirstProject_Source_FirstProject_MainAnimInstance_h_10_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UMainAnimInstance(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -68,28 +68,28 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UMainAnimInstance); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UMainAnimInstance)
 
 
-#define FirstProject_Source_FirstProject_MainAnimInstance_h_15_PRIVATE_PROPERTY_OFFSET
-#define FirstProject_Source_FirstProject_MainAnimInstance_h_12_PROLOG
-#define FirstProject_Source_FirstProject_MainAnimInstance_h_15_GENERATED_BODY_LEGACY \
+#define FirstProject_Source_FirstProject_MainAnimInstance_h_10_PRIVATE_PROPERTY_OFFSET
+#define FirstProject_Source_FirstProject_MainAnimInstance_h_7_PROLOG
+#define FirstProject_Source_FirstProject_MainAnimInstance_h_10_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FirstProject_Source_FirstProject_MainAnimInstance_h_15_PRIVATE_PROPERTY_OFFSET \
-	FirstProject_Source_FirstProject_MainAnimInstance_h_15_SPARSE_DATA \
-	FirstProject_Source_FirstProject_MainAnimInstance_h_15_RPC_WRAPPERS \
-	FirstProject_Source_FirstProject_MainAnimInstance_h_15_INCLASS \
-	FirstProject_Source_FirstProject_MainAnimInstance_h_15_STANDARD_CONSTRUCTORS \
+	FirstProject_Source_FirstProject_MainAnimInstance_h_10_PRIVATE_PROPERTY_OFFSET \
+	FirstProject_Source_FirstProject_MainAnimInstance_h_10_SPARSE_DATA \
+	FirstProject_Source_FirstProject_MainAnimInstance_h_10_RPC_WRAPPERS \
+	FirstProject_Source_FirstProject_MainAnimInstance_h_10_INCLASS \
+	FirstProject_Source_FirstProject_MainAnimInstance_h_10_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define FirstProject_Source_FirstProject_MainAnimInstance_h_15_GENERATED_BODY \
+#define FirstProject_Source_FirstProject_MainAnimInstance_h_10_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FirstProject_Source_FirstProject_MainAnimInstance_h_15_PRIVATE_PROPERTY_OFFSET \
-	FirstProject_Source_FirstProject_MainAnimInstance_h_15_SPARSE_DATA \
-	FirstProject_Source_FirstProject_MainAnimInstance_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
-	FirstProject_Source_FirstProject_MainAnimInstance_h_15_INCLASS_NO_PURE_DECLS \
-	FirstProject_Source_FirstProject_MainAnimInstance_h_15_ENHANCED_CONSTRUCTORS \
+	FirstProject_Source_FirstProject_MainAnimInstance_h_10_PRIVATE_PROPERTY_OFFSET \
+	FirstProject_Source_FirstProject_MainAnimInstance_h_10_SPARSE_DATA \
+	FirstProject_Source_FirstProject_MainAnimInstance_h_10_RPC_WRAPPERS_NO_PURE_DECLS \
+	FirstProject_Source_FirstProject_MainAnimInstance_h_10_INCLASS_NO_PURE_DECLS \
+	FirstProject_Source_FirstProject_MainAnimInstance_h_10_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 

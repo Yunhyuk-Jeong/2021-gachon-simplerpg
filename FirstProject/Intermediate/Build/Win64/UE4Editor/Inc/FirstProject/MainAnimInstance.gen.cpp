@@ -100,7 +100,6 @@ void EmptyLinkFunctionForGeneratedCodeMainAnimInstance() {}
 	};
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UMainAnimInstance_Statics::Class_MetaDataParams[] = {
-		{ "Comment", "/**\n * \n */" },
 		{ "HideCategories", "AnimInstance" },
 		{ "IncludePath", "MainAnimInstance.h" },
 		{ "ModuleRelativePath", "MainAnimInstance.h" },
@@ -171,7 +170,7 @@ void EmptyLinkFunctionForGeneratedCodeMainAnimInstance() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(UMainAnimInstance, 2937463512);
+	IMPLEMENT_CLASS(UMainAnimInstance, 1732409320);
 	template<> FIRSTPROJECT_API UClass* StaticClass<UMainAnimInstance>()
 	{
 		return UMainAnimInstance::StaticClass();
