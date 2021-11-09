@@ -1,0 +1,27 @@
+C:\Users\super\Documents\Unreal Projects\LearnCPPForUnrealEngineUnit2-master\FirstProject\Intermediate\Build\Win64\UE4Editor\Development\FirstProject\Definitions.FirstProject.h
+C:\EpicGames\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\EpicGames\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\super\Documents\Unreal Projects\LearnCPPForUnrealEngineUnit2-master\FirstProject\Source\FirstProject/FirstSaveGame.h
+C:\Users\super\Documents\Unreal Projects\LearnCPPForUnrealEngineUnit2-master\FirstProject\Source\FirstProject\Main.h
+C:\Users\super\Documents\Unreal Projects\LearnCPPForUnrealEngineUnit2-master\FirstProject\Source\FirstProject\WeaponContainer.h
+C:\Users\super\Documents\Unreal Projects\LearnCPPForUnrealEngineUnit2-master\FirstProject\Source\FirstProject\Weapon.h
+C:\Users\super\Documents\Unreal Projects\LearnCPPForUnrealEngineUnit2-master\FirstProject\Source\FirstProject\Item.h
+C:\Users\super\Documents\Unreal Projects\LearnCPPForUnrealEngineUnit2-master\FirstProject\Intermediate\Build\Win64\UE4Editor\Inc\FirstProject\Item.generated.h
+C:\Users\super\Documents\Unreal Projects\LearnCPPForUnrealEngineUnit2-master\FirstProject\Intermediate\Build\Win64\UE4Editor\Inc\FirstProject\Weapon.generated.h
+C:\EpicGames\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
+C:\EpicGames\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\EpicGames\UE_4.26\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+C:\EpicGames\UE_4.26\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+C:\EpicGames\UE_4.26\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+C:\EpicGames\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\AssetRegistry/ARFilter.h
+C:\Users\super\Documents\Unreal Projects\LearnCPPForUnrealEngineUnit2-master\FirstProject\Intermediate\Build\Win64\UE4Editor\Inc\FirstProject\WeaponContainer.generated.h
+C:\EpicGames\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\EpicGames\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+C:\EpicGames\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+C:\EpicGames\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\EpicGames\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\EpicGames\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+C:\Users\super\Documents\Unreal Projects\LearnCPPForUnrealEngineUnit2-master\FirstProject\Intermediate\Build\Win64\UE4Editor\Inc\FirstProject\Main.generated.h
+C:\EpicGames\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/SaveGame.h
+C:\EpicGames\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SaveGame.generated.h
+C:\Users\super\Documents\Unreal Projects\LearnCPPForUnrealEngineUnit2-master\FirstProject\Intermediate\Build\Win64\UE4Editor\Inc\FirstProject\FirstSaveGame.generated.h

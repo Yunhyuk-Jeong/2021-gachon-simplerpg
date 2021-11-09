@@ -1,0 +1,3 @@
+C:\Users\super\Documents\Unreal Projects\LearnCPPForUnrealEngineUnit2-master\FirstProject\Intermediate\Build\Win64\UE4Editor\Development\FirstProject\Definitions.FirstProject.h
+C:\Users\super\Documents\Unreal Projects\LearnCPPForUnrealEngineUnit2-master\FirstProject\Source\FirstProject\WeaponContainerActor.h
+C:\Users\super\Documents\Unreal Projects\LearnCPPForUnrealEngineUnit2-master\FirstProject\Intermediate\Build\Win64\UE4Editor\Inc\FirstProject\WeaponContainerActor.generated.h
